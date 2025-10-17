@@ -4,11 +4,11 @@ My official website is at [wevbarker.co.uk](https://wevbarker.co.uk)
 
 - [PSALTer](https://github.com/wevbarker/PSALTer) - Particle Spectrum for Any Tensor Lagrangian
 - [HiGGS](https://github.com/wevbarker/HiGGS) - Hamiltonian Gauge Gravity Surveyor
-- [Hamilcar](https://github.com/wevbarker/Hamilcar)
+- [Hamilcar](https://github.com/wevbarker/Hamilcar) - MCP-compliant tools for Hamiltonian analysis
 
 ## Tools for supporting science
 
 - [xPlain](https://github.com/wevbarker/xPlain) - Formatting unambiguous, lasting derivations in Wolfram Language
-- [NoMoreNotebooks](https://github.com/wevbarker/NoMoreNotebooks)
-- [Martensite](https://github.com/wevbarker/Martensite)
+- [NoMoreNotebooks](https://github.com/wevbarker/NoMoreNotebooks) - Programmatic Wolfram Notebook Interface
+- [Martensite](https://github.com/wevbarker/Martensite) - Adversarial hardening for modern grantsmanship
 - [BarXiv](https://github.com/wevbarker/BarXiv) - Beamer arXiv citations with matplotlib colormaps
