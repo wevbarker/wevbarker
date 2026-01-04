@@ -3,8 +3,8 @@ My official website is at [wevbarker.co.uk](https://wevbarker.co.uk)
 ## Tools for science
 
 - [PSALTer](https://github.com/wevbarker/PSALTer) - Particle Spectrum for Any Tensor Lagrangian
-- [HiGGS](https://github.com/wevbarker/HiGGS) - Hamiltonian Gauge Gravity Surveyor
-- [Hamilcar](https://github.com/wevbarker/Hamilcar) - MCP-compliant tools for Hamiltonian analysis
+- [HiGGS](https://github.com/wevbarker/HiGGS) - Hamiltonian Gauge Gravity Surveyor (deprecated by Hamilcar)
+- [Hamilcar](https://github.com/wevbarker/Hamilcar) - Hamiltonian (canonical) analysis toolkit for xAct
 
 ## Tools for supporting science
 
