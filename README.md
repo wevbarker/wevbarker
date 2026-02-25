@@ -8,6 +8,7 @@ My official website is at [wevbarker.co.uk](https://wevbarker.co.uk)
 
 ## Tools for supporting science
 
+- [Hasdrubal](https://github.com/wevbarker/Hasdrubal) - AI assistant for canonical field theory computations via Hamilcar package
 - [xPlain](https://github.com/wevbarker/xPlain) - Formatting unambiguous, lasting derivations in Wolfram Language
 - [NoMoreNotebooks](https://github.com/wevbarker/NoMoreNotebooks) - Programmatic Wolfram Notebook Interface
 - [Martensite](https://github.com/wevbarker/Martensite) - Adversarial hardening for modern grantsmanship
